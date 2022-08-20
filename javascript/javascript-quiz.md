@@ -1863,3 +1863,12 @@ if (/* Snipped goes here */){
 - [ ] !deforestation && !conservation
 - [ ] !conservation || deforestation
 - [ ] deforestation && conservation || deforestation
+
+#### Q132. Which method of a class is called to initialize an object of that class?
+
+- [x] constructor()
+- [ ] object
+- [ ] class()
+- [ ] variable
+
+
